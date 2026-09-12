@@ -9,7 +9,7 @@
   "author": "erioll7",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.6",
+    "body-parser": "^2.3.0",
     "express": "^4.22.2"
   }
 }
